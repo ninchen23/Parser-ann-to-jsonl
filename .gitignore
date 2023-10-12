@@ -1,0 +1,12 @@
+*/__pycache__/*
+*.ann
+*/test_data/*
+*/reduced_chia_dataset/*
+*/daten.jsonl
+*.env/*
+*/training/*
+*/scripts/__pycache__
+*.spacy
+*/assets/*
+*.zip
+*.DS_STORE
